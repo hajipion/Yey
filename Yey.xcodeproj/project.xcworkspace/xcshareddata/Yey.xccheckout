@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>27E00B79-70D2-41DA-8B64-A4BAB14B7A5F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Yey</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>44903DF9-75FA-45B5-9558-B24F7918CEB6</key>
+		<string>https://github.com/hajipion/Yey.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Yey/Yey.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>44903DF9-75FA-45B5-9558-B24F7918CEB6</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hajipion/Yey.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>44903DF9-75FA-45B5-9558-B24F7918CEB6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>44903DF9-75FA-45B5-9558-B24F7918CEB6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Yey</string>
+		</dict>
+	</array>
+</dict>
+</plist>
