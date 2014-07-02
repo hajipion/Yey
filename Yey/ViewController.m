@@ -18,6 +18,11 @@
 {
     [super viewDidLoad];
     
+    // ステータスバー非表示
+    if( [ UIApplication sharedApplication ].isStatusBarHidden == NO ) {
+        [ UIApplication sharedApplication ].statusBarHidden = YES;
+    }
+    
     // Stringオブジェクト生成
     NSString* urlString = @"http://yahoo.co.jp";
     // URLオブジェクト生成

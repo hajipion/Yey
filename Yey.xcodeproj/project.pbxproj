@@ -456,6 +456,7 @@
 				EFC277331964197F003B62FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EFC277341964197F003B62FF /* Build configuration list for PBXNativeTarget "YeyTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +465,7 @@
 				EFC277361964197F003B62FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
