@@ -24,7 +24,7 @@
     }
     
     // Stringオブジェクト生成
-    NSString* urlString = @"http://yahoo.co.jp";
+    NSString* urlString = @"http://hajipion.sakura.ne.jp/yey/";
     // URLオブジェクト生成
     NSURL* yeyURL = [NSURL URLWithString: urlString];
     // Requestオブジェクト生成
